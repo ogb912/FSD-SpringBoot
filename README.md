@@ -1,4 +1,4 @@
-English [中文](README-ZH.md)
+English [中文](README_ZH.md)
 # FSD-SpringBoot
 * A flight simulator multiplayer server base Spring Boot.
 * The source code is on Alinyun Devops. You can't download it without authorization If you want to source code or joint develop,please contract me in Email
