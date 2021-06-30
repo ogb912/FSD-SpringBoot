@@ -1,3 +1,4 @@
+[English](README.md) 中文
 # FSD-Spring Boot
 * 这是一个基于Spring Boot开发的模拟飞行连飞服务器
 * 本项目源代码在阿里云云效devops平台上，未经授权禁止下载，如需加入开发计划或下载源码，请Email联系作者
